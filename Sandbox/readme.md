@@ -9,3 +9,7 @@ Any time you write new code, do it in this Sandbox folder. The point of a sandbo
 
 ## Rule 3:
 On that note, you should be typing code from scratch. This sandbox should be full of code, whether it works or not. You learn a lot from typing things from scratch, especially when you're a beginner. This is because you'll inevitably type things incorrectly when you do it from scratch, and then you'll have to self-diagnose why your code doesn't work. That is invaluable experience for learning how to code. And it will also help with your muscle memory. It takes virtually zero time for Jae to write a pipe (%>%) because Jae has typed thousands and thousands and thousands of pipes. You cannot get good at writing code quickly without building muscle memory. If you simply run existing code, or copy/paste existing code, you are hurting your own learning. There are no shortcuts to learning code. You must do it the hard way.
+
+hi
+
+
